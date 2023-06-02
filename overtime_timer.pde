@@ -15,7 +15,7 @@ void setup (int y){
 
 void draw(){
   fill(0, 408, 612);
-  textSize(50);
+  textSize(48);
    
   //fill(random(0,255),random(0,255),random(0,255),50);
   // ellipse(mouseX,mouseY, second()*5,second()*5);
